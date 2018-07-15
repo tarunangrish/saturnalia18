@@ -1,0 +1,32 @@
+HTTrack3.49-2 launched on Thu, 12 Jul 2018 21:21:07 at http://themearth.com/demo/html/emeet/view/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://themearth.com/demo/html/emeet/view/index.html -O "/Users/tarunangrish/websites/Emily Event" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:26:16	Error: 	"Not Found" (404) at link themearth.com/demo/html/emeet/view/news-list.html (from themearth.com/demo/html/emeet/view/index16.html)
+21:33:15	Warning: 	HTML file (86094 bytes) retransferred due to lack of cache: themearth.com/demo/html/emeet/view/index2.html
+21:33:23	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/speakers/speaker5.jpg (from themearth.com/demo/html/emeet/view/index.html)
+21:33:25	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/schedule/speaker1.jpg (from themearth.com/demo/html/emeet/view/index.html)
+21:33:25	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/sponsors/sponsor4.png (from themearth.com/demo/html/emeet/view/index.html)
+21:33:27	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/icons/2.png (from themearth.com/demo/html/emeet/view/index.html)
+21:33:29	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/news/news2.jpg (from themearth.com/demo/html/emeet/view/index.html)
+21:33:31	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/js/vendor/jquery-1.12.4.min.js (from themearth.com/demo/html/emeet/view/index.html)
+21:33:32	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/libs/jquery.validate.js (from themearth.com/demo/html/emeet/view/index.html)
+21:33:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Oswald:400,700%7cRaleway:300,400,400i,500,600,700,900
+21:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/parallax/7.png (from themearth.com/demo/html/emeet/view/index3.html)
+21:33:37	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/sponsors/sponsor5.png (from themearth.com/demo/html/emeet/view/index3.html)
+21:33:38	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/gallery/gallery2.jpg (from themearth.com/demo/html/emeet/view/index3.html)
+21:33:39	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/sponsors/w-sponsor-sp3.png (from themearth.com/demo/html/emeet/view/index4.html)
+21:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/sponsors/sponsor6.png (from themearth.com/demo/html/emeet/view/index5.html)
+21:33:41	Error: 	"" (404) at link themearth.com/demo/html/emeet/view/news-list.html (from themearth.com/demo/html/emeet/view/index16.html)
+21:33:42	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/info-christ-icon1.png (from themearth.com/demo/html/emeet/view/index17.html)
+21:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/info-christ-icon3.png (from themearth.com/demo/html/emeet/view/index17.html)
+21:33:45	Error: 	"Not Found" (404) at link themearth.com/demo/html/emeet/view/assets/libs/owlcarousel/owl.video.play.png (from themearth.com/demo/html/emeet/view/assets/libs/owlcarousel/owl.carousel.min.css)
+21:33:46	Warning: 	Retry after error -4 (No data (connection closed)) at link themearth.com/demo/html/emeet/view/assets/img/banner-bg2.jpg (from themearth.com/demo/html/emeet/view/assets/css/style-default.min.css)
+21:33:47	Error: 	"Not Found" (404) at link themearth.com/demo/html/emeet/view/assets/img/parallax/pl_mb1.png (from themearth.com/demo/html/emeet/view/assets/css/style-default.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 38 seconds : 222 links scanned, 222 files written (16157915 bytes overall) [13924168 bytes received at 17022 bytes/sec], 5261985 bytes transferred using HTTP compression in 118 files, ratio 25%, 2.5 requests per connection
+(4 errors, 17 warnings, 0 messages)
